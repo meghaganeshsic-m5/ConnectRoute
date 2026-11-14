@@ -1,0 +1,181 @@
+fold,model,actual_category,predicted_category,count
+0,Physics,Strong,Strong,5
+0,Physics,Strong,Moderate,58859
+0,Physics,Strong,Weak,0
+0,Physics,Moderate,Strong,1
+0,Physics,Moderate,Moderate,13222
+0,Physics,Moderate,Weak,0
+0,Physics,Weak,Strong,0
+0,Physics,Weak,Moderate,145
+0,Physics,Weak,Weak,0
+0,LightGBM,Strong,Strong,35931
+0,LightGBM,Strong,Moderate,22933
+0,LightGBM,Strong,Weak,0
+0,LightGBM,Moderate,Strong,5918
+0,LightGBM,Moderate,Moderate,7305
+0,LightGBM,Moderate,Weak,0
+0,LightGBM,Weak,Strong,86
+0,LightGBM,Weak,Moderate,59
+0,LightGBM,Weak,Weak,0
+0,Hybrid LightGBM,Strong,Strong,36933
+0,Hybrid LightGBM,Strong,Moderate,21931
+0,Hybrid LightGBM,Strong,Weak,0
+0,Hybrid LightGBM,Moderate,Strong,6726
+0,Hybrid LightGBM,Moderate,Moderate,6497
+0,Hybrid LightGBM,Moderate,Weak,0
+0,Hybrid LightGBM,Weak,Strong,86
+0,Hybrid LightGBM,Weak,Moderate,59
+0,Hybrid LightGBM,Weak,Weak,0
+0,XGBoost,Strong,Strong,29798
+0,XGBoost,Strong,Moderate,29066
+0,XGBoost,Strong,Weak,0
+0,XGBoost,Moderate,Strong,4837
+0,XGBoost,Moderate,Moderate,8386
+0,XGBoost,Moderate,Weak,0
+0,XGBoost,Weak,Strong,66
+0,XGBoost,Weak,Moderate,79
+0,XGBoost,Weak,Weak,0
+1,Physics,Strong,Strong,2971
+1,Physics,Strong,Moderate,18714
+1,Physics,Strong,Weak,0
+1,Physics,Moderate,Strong,3166
+1,Physics,Moderate,Moderate,24366
+1,Physics,Moderate,Weak,0
+1,Physics,Weak,Strong,1061
+1,Physics,Weak,Moderate,6816
+1,Physics,Weak,Weak,0
+1,LightGBM,Strong,Strong,3694
+1,LightGBM,Strong,Moderate,9431
+1,LightGBM,Strong,Weak,8560
+1,LightGBM,Moderate,Strong,7571
+1,LightGBM,Moderate,Moderate,16428
+1,LightGBM,Moderate,Weak,3533
+1,LightGBM,Weak,Strong,1054
+1,LightGBM,Weak,Moderate,3690
+1,LightGBM,Weak,Weak,3133
+1,Hybrid LightGBM,Strong,Strong,2055
+1,Hybrid LightGBM,Strong,Moderate,13191
+1,Hybrid LightGBM,Strong,Weak,6439
+1,Hybrid LightGBM,Moderate,Strong,12434
+1,Hybrid LightGBM,Moderate,Moderate,12640
+1,Hybrid LightGBM,Moderate,Weak,2458
+1,Hybrid LightGBM,Weak,Strong,1081
+1,Hybrid LightGBM,Weak,Moderate,4303
+1,Hybrid LightGBM,Weak,Weak,2493
+1,XGBoost,Strong,Strong,3498
+1,XGBoost,Strong,Moderate,13115
+1,XGBoost,Strong,Weak,5072
+1,XGBoost,Moderate,Strong,7647
+1,XGBoost,Moderate,Moderate,16773
+1,XGBoost,Moderate,Weak,3112
+1,XGBoost,Weak,Strong,1339
+1,XGBoost,Weak,Moderate,4906
+1,XGBoost,Weak,Weak,1632
+2,Physics,Strong,Strong,3316
+2,Physics,Strong,Moderate,11886
+2,Physics,Strong,Weak,0
+2,Physics,Moderate,Strong,4697
+2,Physics,Moderate,Moderate,14578
+2,Physics,Moderate,Weak,0
+2,Physics,Weak,Strong,1868
+2,Physics,Weak,Moderate,13175
+2,Physics,Weak,Weak,0
+2,LightGBM,Strong,Strong,5249
+2,LightGBM,Strong,Moderate,9953
+2,LightGBM,Strong,Weak,0
+2,LightGBM,Moderate,Strong,2611
+2,LightGBM,Moderate,Moderate,16664
+2,LightGBM,Moderate,Weak,0
+2,LightGBM,Weak,Strong,860
+2,LightGBM,Weak,Moderate,14183
+2,LightGBM,Weak,Weak,0
+2,Hybrid LightGBM,Strong,Strong,3207
+2,Hybrid LightGBM,Strong,Moderate,11995
+2,Hybrid LightGBM,Strong,Weak,0
+2,Hybrid LightGBM,Moderate,Strong,4314
+2,Hybrid LightGBM,Moderate,Moderate,14961
+2,Hybrid LightGBM,Moderate,Weak,0
+2,Hybrid LightGBM,Weak,Strong,4132
+2,Hybrid LightGBM,Weak,Moderate,10911
+2,Hybrid LightGBM,Weak,Weak,0
+2,XGBoost,Strong,Strong,2216
+2,XGBoost,Strong,Moderate,12986
+2,XGBoost,Strong,Weak,0
+2,XGBoost,Moderate,Strong,3936
+2,XGBoost,Moderate,Moderate,15339
+2,XGBoost,Moderate,Weak,0
+2,XGBoost,Weak,Strong,3847
+2,XGBoost,Weak,Moderate,11196
+2,XGBoost,Weak,Weak,0
+3,Physics,Strong,Strong,3407
+3,Physics,Strong,Moderate,16961
+3,Physics,Strong,Weak,0
+3,Physics,Moderate,Strong,3468
+3,Physics,Moderate,Moderate,21119
+3,Physics,Moderate,Weak,0
+3,Physics,Weak,Strong,85
+3,Physics,Weak,Moderate,1597
+3,Physics,Weak,Weak,0
+3,LightGBM,Strong,Strong,7534
+3,LightGBM,Strong,Moderate,12796
+3,LightGBM,Strong,Weak,38
+3,LightGBM,Moderate,Strong,17576
+3,LightGBM,Moderate,Moderate,6973
+3,LightGBM,Moderate,Weak,38
+3,LightGBM,Weak,Strong,908
+3,LightGBM,Weak,Moderate,736
+3,LightGBM,Weak,Weak,38
+3,Hybrid LightGBM,Strong,Strong,6822
+3,Hybrid LightGBM,Strong,Moderate,13546
+3,Hybrid LightGBM,Strong,Weak,0
+3,Hybrid LightGBM,Moderate,Strong,17406
+3,Hybrid LightGBM,Moderate,Moderate,7181
+3,Hybrid LightGBM,Moderate,Weak,0
+3,Hybrid LightGBM,Weak,Strong,892
+3,Hybrid LightGBM,Weak,Moderate,789
+3,Hybrid LightGBM,Weak,Weak,1
+3,XGBoost,Strong,Strong,9404
+3,XGBoost,Strong,Moderate,10270
+3,XGBoost,Strong,Weak,694
+3,XGBoost,Moderate,Strong,17159
+3,XGBoost,Moderate,Moderate,7390
+3,XGBoost,Moderate,Weak,38
+3,XGBoost,Weak,Strong,871
+3,XGBoost,Weak,Moderate,808
+3,XGBoost,Weak,Weak,3
+4,Physics,Strong,Strong,326
+4,Physics,Strong,Moderate,13626
+4,Physics,Strong,Weak,0
+4,Physics,Moderate,Strong,52
+4,Physics,Moderate,Moderate,9168
+4,Physics,Moderate,Weak,0
+4,Physics,Weak,Strong,204
+4,Physics,Weak,Moderate,14968
+4,Physics,Weak,Weak,0
+4,LightGBM,Strong,Strong,12271
+4,LightGBM,Strong,Moderate,1681
+4,LightGBM,Strong,Weak,0
+4,LightGBM,Moderate,Strong,8506
+4,LightGBM,Moderate,Moderate,714
+4,LightGBM,Moderate,Weak,0
+4,LightGBM,Weak,Strong,11274
+4,LightGBM,Weak,Moderate,3898
+4,LightGBM,Weak,Weak,0
+4,Hybrid LightGBM,Strong,Strong,13653
+4,Hybrid LightGBM,Strong,Moderate,299
+4,Hybrid LightGBM,Strong,Weak,0
+4,Hybrid LightGBM,Moderate,Strong,8757
+4,Hybrid LightGBM,Moderate,Moderate,463
+4,Hybrid LightGBM,Moderate,Weak,0
+4,Hybrid LightGBM,Weak,Strong,11037
+4,Hybrid LightGBM,Weak,Moderate,4135
+4,Hybrid LightGBM,Weak,Weak,0
+4,XGBoost,Strong,Strong,13364
+4,XGBoost,Strong,Moderate,588
+4,XGBoost,Strong,Weak,0
+4,XGBoost,Moderate,Strong,8565
+4,XGBoost,Moderate,Moderate,655
+4,XGBoost,Moderate,Weak,0
+4,XGBoost,Weak,Strong,9875
+4,XGBoost,Weak,Moderate,5297
+4,XGBoost,Weak,Weak,0

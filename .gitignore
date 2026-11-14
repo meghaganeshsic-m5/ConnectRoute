@@ -17,3 +17,5 @@ results/*
 !results/.gitkeep
 
 .ipynb_checkpoints/
+
+outputs/serving_cell_distance_comparison.csv

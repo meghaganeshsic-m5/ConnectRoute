@@ -1,0 +1,8 @@
+Category,Feature_Count,Mean_Absolute_Correlation
+Measured Signal Quality,4,0.7534289110766894
+Distance Features,3,0.20958020020616888
+Terrain Features,15,0.20715927495323466
+Propagation Model Features,28,0.18839007976536126
+Other Features,44,0.09003299053113502
+Tower Metadata,6,0.07507994305396805
+Bearing Features,3,0.014534434158744967

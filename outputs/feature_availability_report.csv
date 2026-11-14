@@ -1,0 +1,150 @@
+Feature,Category,Data_Type,Missing_Count,Missing_Percentage,Unique_Values
+timestamp,Identifier or Metadata,datetime64[us],0,0.0,263827
+latitude,Location Feature - Review,float64,0,0.0,3644
+longitude,Location Feature - Review,float64,0,0.0,124685
+ele,Other - Review,float64,0,0.0,2036
+newpos,Location Feature - Review,bool,0,0.0,2
+rsrq,Measured Signal - Exclude,float64,0,0.0,18
+cell_id,Identifier or Metadata,float64,0,0.0,88
+sinr,Measured Signal - Exclude,float64,0,0.0,51
+signal,Measured Signal - Exclude,float64,0,0.0,6
+pci,Identifier or Metadata,float64,0,0.0,41
+rssi,Measured Signal - Exclude,float64,119602,45.33349505547196,23
+netmode,Identifier or Metadata,float64,0,0.0,2
+technology,Other - Review,str,0,0.0,1
+rsrp_dbm,Target Variable,float64,0,0.0,91
+datarate,Measured Signal - Exclude,float64,0,0.0,205940
+file,Identifier or Metadata,str,0,0.0,690
+line,Identifier or Metadata,int64,0,0.0,2773
+trip,Identifier or Metadata,str,0,0.0,498
+predecessor,Identifier or Metadata,float64,8348,3.16419471850872,1
+dlong,Other - Review,float64,8348,3.16419471850872,1149
+dlat,Other - Review,float64,8348,3.16419471850872,142
+predecessor2,Identifier or Metadata,float64,256198,97.10833235415632,1
+easting_m,Location Feature - Review,float64,0,0.0,258933
+northing_m,Location Feature - Review,float64,0,0.0,258933
+chainage_m,Location Feature - Review,float64,0,0.0,241904
+spatial_block,Identifier or Metadata,int64,0,0.0,10
+spatial_fold,Identifier or Metadata,int64,0,0.0,5
+tower_1_distance_m,Tower Geometry - Candidate,float64,0,0.0,258933
+tower_1_bearing_deg,Tower Geometry - Candidate,float64,0,0.0,258933
+tower_1_mcc,Tower Metadata - Review,int64,0,0.0,1
+tower_1_net,Tower Metadata - Review,int64,0,0.0,4
+tower_1_area,Tower Metadata - Review,int64,0,0.0,6
+tower_1_cell,Other - Review,int64,0,0.0,105
+tower_1_unit,Tower Metadata - Review,int64,0,0.0,2
+tower_1_latitude,Other - Review,float64,0,0.0,116
+tower_1_longitude,Other - Review,float64,0,0.0,117
+tower_1_samples,Tower Metadata - Review,int64,0,0.0,85
+tower_1_range,Tower Metadata - Review,int64,0,0.0,87
+tower_1_created,Tower Metadata - Review,datetime64[us],0,0.0,80
+tower_1_created_age_at_measurement_days,Tower Metadata - Review,float64,0,0.0,252631
+tower_1_updated,Tower Metadata - Review,datetime64[us],0,0.0,113
+tower_1_updated_age_at_measurement_days,Tower Metadata - Review,float64,0,0.0,243600
+tower_2_distance_m,Tower Geometry - Candidate,float64,0,0.0,258933
+tower_2_bearing_deg,Tower Geometry - Candidate,float64,0,0.0,258933
+tower_2_mcc,Tower Metadata - Review,int64,0,0.0,1
+tower_2_net,Tower Metadata - Review,int64,0,0.0,4
+tower_2_area,Tower Metadata - Review,int64,0,0.0,6
+tower_2_cell,Other - Review,int64,0,0.0,115
+tower_2_unit,Tower Metadata - Review,int64,0,0.0,2
+tower_2_latitude,Other - Review,float64,0,0.0,131
+tower_2_longitude,Other - Review,float64,0,0.0,132
+tower_2_samples,Tower Metadata - Review,int64,0,0.0,92
+tower_2_range,Tower Metadata - Review,int64,0,0.0,99
+tower_2_created,Tower Metadata - Review,datetime64[us],0,0.0,90
+tower_2_created_age_at_measurement_days,Tower Metadata - Review,float64,0,0.0,257660
+tower_2_updated,Tower Metadata - Review,datetime64[us],0,0.0,127
+tower_2_updated_age_at_measurement_days,Tower Metadata - Review,float64,0,0.0,235575
+tower_3_distance_m,Tower Geometry - Candidate,float64,0,0.0,258933
+tower_3_bearing_deg,Tower Geometry - Candidate,float64,0,0.0,258933
+tower_3_mcc,Tower Metadata - Review,int64,0,0.0,1
+tower_3_net,Tower Metadata - Review,int64,0,0.0,4
+tower_3_area,Tower Metadata - Review,int64,0,0.0,6
+tower_3_cell,Other - Review,int64,0,0.0,121
+tower_3_unit,Tower Metadata - Review,int64,0,0.0,2
+tower_3_latitude,Other - Review,float64,0,0.0,138
+tower_3_longitude,Other - Review,float64,0,0.0,139
+tower_3_samples,Tower Metadata - Review,int64,0,0.0,94
+tower_3_range,Tower Metadata - Review,int64,0,0.0,105
+tower_3_created,Tower Metadata - Review,datetime64[us],0,0.0,92
+tower_3_created_age_at_measurement_days,Tower Metadata - Review,float64,0,0.0,259089
+tower_3_updated,Tower Metadata - Review,datetime64[us],0,0.0,134
+tower_3_updated_age_at_measurement_days,Tower Metadata - Review,float64,0,0.0,235522
+tower_1_receiver_elevation_m,Terrain - Candidate,float64,0,0.0,237326
+tower_1_tower_ground_elevation_m,Terrain - Candidate,float64,0,0.0,117
+tower_1_fresnel_clearance_fraction,Terrain - Candidate,float64,0,0.0,258933
+tower_1_knife_edge_diffraction_loss_db,Terrain - Candidate,float64,0,0.0,19802
+tower_1_terrain_roughness_m,Terrain - Candidate,float64,0,0.0,152646
+tower_1_profile_sample_count,Terrain - Candidate,float64,0,0.0,13
+tower_2_receiver_elevation_m,Terrain - Candidate,float64,0,0.0,237326
+tower_2_tower_ground_elevation_m,Terrain - Candidate,float64,0,0.0,132
+tower_2_fresnel_clearance_fraction,Terrain - Candidate,float64,0,0.0,258933
+tower_2_knife_edge_diffraction_loss_db,Terrain - Candidate,float64,0,0.0,30664
+tower_2_terrain_roughness_m,Terrain - Candidate,float64,0,0.0,232115
+tower_2_profile_sample_count,Terrain - Candidate,float64,0,0.0,17
+tower_3_receiver_elevation_m,Terrain - Candidate,float64,0,0.0,237326
+tower_3_tower_ground_elevation_m,Terrain - Candidate,float64,0,0.0,139
+tower_3_fresnel_clearance_fraction,Terrain - Candidate,float64,0,0.0,258933
+tower_3_knife_edge_diffraction_loss_db,Terrain - Candidate,float64,0,0.0,51880
+tower_3_terrain_roughness_m,Terrain - Candidate,float64,0,0.0,253449
+tower_3_profile_sample_count,Terrain - Candidate,float64,0,0.0,22
+tower_1_free_space_path_loss_db,Propagation - Candidate,float64,0,0.0,258933
+tower_1_cost231_hata_path_loss_db,Propagation - Candidate,float64,0,0.0,258933
+tower_1_cost231_hata_in_domain,Other - Review,bool,0,0.0,1
+tower_1_hata_rural_path_loss_db,Propagation - Candidate,float64,0,0.0,258933
+tower_1_hata_rural_in_domain,Other - Review,bool,0,0.0,1
+tower_1_3gpp_rma_los_path_loss_db,Propagation - Candidate,float64,0,0.0,258933
+tower_1_3gpp_rma_los_in_domain,Other - Review,bool,0,0.0,2
+tower_1_3gpp_rma_nlos_path_loss_db,Propagation - Candidate,float64,0,0.0,258933
+tower_1_3gpp_rma_nlos_in_domain,Other - Review,bool,0,0.0,2
+tower_1_3gpp_uma_los_path_loss_db,Propagation - Candidate,float64,0,0.0,258933
+tower_1_3gpp_uma_los_in_domain,Other - Review,bool,0,0.0,2
+tower_1_3gpp_uma_nlos_path_loss_db,Propagation - Candidate,float64,0,0.0,258933
+tower_1_3gpp_uma_nlos_in_domain,Other - Review,bool,0,0.0,2
+tower_2_free_space_path_loss_db,Propagation - Candidate,float64,0,0.0,258933
+tower_2_cost231_hata_path_loss_db,Propagation - Candidate,float64,0,0.0,258933
+tower_2_cost231_hata_in_domain,Other - Review,bool,0,0.0,1
+tower_2_hata_rural_path_loss_db,Propagation - Candidate,float64,0,0.0,258933
+tower_2_hata_rural_in_domain,Other - Review,bool,0,0.0,1
+tower_2_3gpp_rma_los_path_loss_db,Propagation - Candidate,float64,0,0.0,258933
+tower_2_3gpp_rma_los_in_domain,Other - Review,bool,0,0.0,2
+tower_2_3gpp_rma_nlos_path_loss_db,Propagation - Candidate,float64,0,0.0,258933
+tower_2_3gpp_rma_nlos_in_domain,Other - Review,bool,0,0.0,2
+tower_2_3gpp_uma_los_path_loss_db,Propagation - Candidate,float64,0,0.0,258933
+tower_2_3gpp_uma_los_in_domain,Other - Review,bool,0,0.0,2
+tower_2_3gpp_uma_nlos_path_loss_db,Propagation - Candidate,float64,0,0.0,258933
+tower_2_3gpp_uma_nlos_in_domain,Other - Review,bool,0,0.0,2
+tower_3_free_space_path_loss_db,Propagation - Candidate,float64,0,0.0,258933
+tower_3_cost231_hata_path_loss_db,Propagation - Candidate,float64,0,0.0,258933
+tower_3_cost231_hata_in_domain,Other - Review,bool,0,0.0,1
+tower_3_hata_rural_path_loss_db,Propagation - Candidate,float64,0,0.0,258933
+tower_3_hata_rural_in_domain,Other - Review,bool,0,0.0,1
+tower_3_3gpp_rma_los_path_loss_db,Propagation - Candidate,float64,0,0.0,258933
+tower_3_3gpp_rma_los_in_domain,Other - Review,bool,0,0.0,1
+tower_3_3gpp_rma_nlos_path_loss_db,Propagation - Candidate,float64,0,0.0,258933
+tower_3_3gpp_rma_nlos_in_domain,Other - Review,bool,0,0.0,1
+tower_3_3gpp_uma_los_path_loss_db,Propagation - Candidate,float64,0,0.0,258933
+tower_3_3gpp_uma_los_in_domain,Other - Review,bool,0,0.0,1
+tower_3_3gpp_uma_nlos_path_loss_db,Propagation - Candidate,float64,0,0.0,258933
+tower_3_3gpp_uma_nlos_in_domain,Other - Review,bool,0,0.0,1
+best_server_free_space_path_loss_db,Propagation - Candidate,float64,0,0.0,258933
+best_server_free_space_tower_rank,Other - Review,int64,0,0.0,1
+best_server_cost231_hata_path_loss_db,Propagation - Candidate,float64,0,0.0,258933
+best_server_cost231_hata_tower_rank,Other - Review,int64,0,0.0,1
+best_server_cost231_hata_in_domain,Other - Review,bool,0,0.0,1
+best_server_hata_rural_path_loss_db,Propagation - Candidate,float64,0,0.0,258933
+best_server_hata_rural_tower_rank,Other - Review,int64,0,0.0,1
+best_server_hata_rural_in_domain,Other - Review,bool,0,0.0,1
+best_server_3gpp_rma_los_path_loss_db,Propagation - Candidate,float64,0,0.0,258933
+best_server_3gpp_rma_los_tower_rank,Other - Review,int64,0,0.0,1
+best_server_3gpp_rma_los_in_domain,Other - Review,bool,0,0.0,2
+best_server_3gpp_rma_nlos_path_loss_db,Propagation - Candidate,float64,0,0.0,258933
+best_server_3gpp_rma_nlos_tower_rank,Other - Review,int64,0,0.0,1
+best_server_3gpp_rma_nlos_in_domain,Other - Review,bool,0,0.0,2
+best_server_3gpp_uma_los_path_loss_db,Propagation - Candidate,float64,0,0.0,258933
+best_server_3gpp_uma_los_tower_rank,Other - Review,int64,0,0.0,1
+best_server_3gpp_uma_los_in_domain,Other - Review,bool,0,0.0,2
+best_server_3gpp_uma_nlos_path_loss_db,Propagation - Candidate,float64,0,0.0,258933
+best_server_3gpp_uma_nlos_tower_rank,Other - Review,int64,0,0.0,1
+best_server_3gpp_uma_nlos_in_domain,Other - Review,bool,0,0.0,2

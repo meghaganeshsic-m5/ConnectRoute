@@ -1,0 +1,3 @@
+Column,Lower_Boundary,Upper_Boundary,Outlier_Count,Outlier_Percentage
+rsrp_dbm,-124.5,-40.5,37,0.014024341708771277
+tower_1_distance_m,-104.18640062207234,295.32330740022246,9031,3.4230764857273894
